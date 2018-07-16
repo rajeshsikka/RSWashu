@@ -1,0 +1,8 @@
+----------------------------------
+      Financial Analysis          
+----------------------------------
+Total no of records:41
+Total Revenue amount:18971412
+The Average Change:-6594
+Greatest Increase in Profits:16-Feb 1837235
+Greatest Decrease in Profits:14-Aug -1779747
