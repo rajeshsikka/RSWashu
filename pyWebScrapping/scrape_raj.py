@@ -133,7 +133,7 @@ def marsWeather():
         tweet_message.append(twt_msg)
 
     browser.quit()
-    return tweet_message[2]
+    return tweet_message[5]
 
 # ### Mars Facts
 
